@@ -1,0 +1,8 @@
+com\employees\employeesinfo\CreateEmployeesDataDrivenTest.class
+com\employees\employeesinfo\EmployeesCURDTest.class
+com\employees\employeesinfo\SerenityTest.class
+com\employees\employeestest\EmployeesGetTest.class
+com\employees\employeestest\EmployeesPostTest.class
+com\employees\employeestest\EmployeesPutTest.class
+com\employees\employeestest\EmployeesDeleteTest.class
+com\employees\testbase\TestBase.class
